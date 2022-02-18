@@ -1,6 +1,6 @@
 # TP TLW 3ETI (Session 2)
 
-Ce TP est individuel et doit être rendu au plus tard le **lundi 28/02/2022 à 18:00**
+Ce TP est individuel et doit être rendu au plus tard le **lundi 28/02/2022 à 18:00**.
 
 ## Exercices sur HTML et JavaScript
 Les exercices de cette section doivent vous permettre de reprendre en main les bases d'HTML et JavaScript. Aucune mise en forme n'est demandée dans cette section.
